@@ -5,6 +5,10 @@ Here are my solutions to Advent Day of Code 2020.
 I do not claim that my solutions are particularly great but I did them all on my lonesome
 
 
+<h2>Day 11: Airport Seating</h2>
+- Part 1: Simulating people choosing seats.  Like "The Game of Life" - kind of fun.  No issues
+- Part 2: Updating the seat rules.  No issues 
+
 <h2>Day 12: Ferry Navigation Computer</h2>
 - Part 1: Navigating from computer program.  No issues
 - Part 2: More navigating from computer program.  No issues 
