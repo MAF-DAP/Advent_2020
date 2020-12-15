@@ -2,10 +2,14 @@
 
 Here are my solutions to Advent Day of Code 2020.  
 
-Note that the base code I use for each project becomes simpler as the days go on.  The reason for this is that I had to get a rhythm for the questions and how the data came through.  You'll see in the initial question, I copied in the sample and actual data directly into the program in the format I thought best and then read it in.  I also started off as quite anal when it comes to checking the file reads but then slacked off as I reaized that the error checking wasn't required for these applications.  
+Note that the base code I use for each project becomes simpler as the days go on.  The reason for this is that I had to get a rhythm for the questions and how the data came through.  You'll see in the initial questions, I copied in the sample and actual data directly into the program in the format I thought best and then read it in.  Going to a basic wrapper that reads in the data ("Read_File.c") I also started off as quite anal when it comes to checking the file reads but then slacked off as I reaized that the error checking wasn't required for these applications.  
 
 I do not claim that my solutions are particularly great but I did them all on my lonesome
 
+
+<h2>Day 4: Passport Processing</h2>
+- Part 1: Checking passports for validity.  No issues
+<p>- Part 2: More involved passport data checks.  No issues 
 
 <h2>Day 5: Binary Boarding</h2>
 - Part 1: Decoding boarding pass to understand seat assignments.  No issues
