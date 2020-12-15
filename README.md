@@ -1,16 +1,23 @@
 # Advent Day of Code 2020
 
-Here are my solutions to Advent Day of Code 2020.  
+Here are my solutions to Advent Day of Code 2020
 
-Note that the base code I use for each project becomes simpler as the days go on.  The reason for this is that I had to get a rhythm for the questions and how the data came through.  You'll see in the initial questions, I copied in the sample and actual data directly into the program in the format I thought best and then read it in.  Going to a basic wrapper that reads in the data ("Read_File.c") I also started off as quite anal when it comes to checking the file reads but then slacked off as I reaized that the error checking wasn't required for these applications.  
+Note that the base code I use for each project becomes simpler as the days go on.  The reason for this is that I had to get a rhythm for the questions and how the data came through.  You'll see in the initial questions, I copied in the sample and actual data directly into the program in the format I thought best and then read it in.  Going to a basic wrapper that reads in the data ("Read_File.c") I also started off as quite anal when it comes to checking the file reads but then slacked off as I reaized that the error checking wasn't required for these applications
+
+All code was built using MinGW and was created in Eclipse
 
 I do not claim that my solutions are particularly great but I did them all on my lonesome
 
 
+<h2>Day 1: Report Repair</h2>
+- Part 1: Find two numbers that add up to 2020.  No issues
+<p>- Part 2: Find three numbers that add up to 2020.  No issues 
+<p><b>NOTE:</b> Both parts were done in one program
+
 <h2>Day 2: Password Philosophy</h2>
 - Part 1: Check for Valid Passports.  No issues
 <p>- Part 2: Check for Valid Passports with different criteria.  No issues 
-<p>NOTE: Both parts were done in one program
+<p><b>NOTE:</b> Both parts were done in one program
 
 <h2>Day 3: Toboggan Trajectory</h2>
 - Part 1: Tobogganing through a forest and counting the trees you'd hit.  No issues
