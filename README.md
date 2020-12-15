@@ -5,13 +5,17 @@ Here are my solutions to Advent Day of Code 2020.
 I do not claim that my solutions are particularly great but I did them all on my lonesome
 
 
+<h2>Day 8: Handheld Halting</h2>
+- Part 1: Find accumulator value in repeating code.  No issues
+<p>- Part 2: Find the corrupted instruction.  No issues 
+
 <h2>Day 9: Encoding Error</h2>
 - Part 1: Find the Incorrect Sum of List Element Numbers.  No issues
 <p>- Part 2: Find the next invalid number in the list.  No issues 
 
 <h2>Day 10: Joltage Adapter</h2>
 - Part 1: Find the appropriate set of power adapters based on set rules.  Implemented with recursion.  No issues
-<p>- Part 2: Finding all the different ways that the adpaters can be organized.  First pass used recursion and I halted it when I realized that it would take over 6,000 years to run.  Second version was implemented when I looked at the data and noticed that the joltage rating changed by either "1" or "3" - this version runs much more quickly 
+<p>- Part 2: Finding all the different ways that the adpaters can be organized.  First pass used recursion and I halted it when I realized that it would take over 6,000 years to run.  Second version was implemented when I looked at the data and noticed that the joltage rating changed by either "1" or "3" with a set number of options for the number of "1"s found - this version runs much more quickly 
 
 <h2>Day 11: Airport Seating</h2>
 - Part 1: Simulating people choosing seats.  Like "The Game of Life" - kind of fun.  No issues
