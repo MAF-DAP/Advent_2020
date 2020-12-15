@@ -68,5 +68,5 @@ I do not claim that my solutions are particularly great but I did them all on my
 <p>- Part 2: Initialization Docking Program with Address Specified by Mask.  Should not have had any issues, but found that MindGW (the compiler I'm using) ALWAYS returns 0 for (1 << bit) where "bit" is 32 or greater
 
 <h2>Day 15: Rambunctious Recitation</h2>
-- Parts 1 & 2: Knowing that the simple case is a Order N**2 operation of reading through the previous list of numbers and suspecting that Part 2 will be a much larger range of numbers, I implemented this as a bitmap array with each element storing a value in the list.  No Issues.  
-<p><b>NOTE:</b> My values are hard coded into the program
+- Parts 1 & 2 are the same program.  Knowing that the simple case is a Order N**2 operation of reading through the previous list of numbers for each new number and suspecting that Part 2 will be a much larger range of numbers, I implemented this as a bitmap array with each element storing a value in the list.  No Issues.  
+<p><b>NOTE:</b> The test values given to me are hard coded into the program
