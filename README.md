@@ -1,6 +1,6 @@
 # Advent Day of Code 2020
 
-Here are my solutions to Advent Day of Code 2020
+Here are my solutions to <a href="https://adventofcode.com/">Advent Day of Code 2020</a>
 
 Note that the base code I use for each project becomes simpler as the days go on.  The reason for this is that I had to get a rhythm for the questions and how the data came through.  You'll see in the initial questions, I copied in the sample and actual data directly into the program in the format I thought best and then read it in.  Going to a basic wrapper that reads in the data ("Read_File.c") I also started off as quite anal when it comes to checking the file reads but then slacked off as I reaized that the error checking wasn't required for these applications
 
@@ -67,6 +67,6 @@ I do not claim that my solutions are particularly great but I did them all on my
 - Part 1: Initialization Docking Program with Data Specified by Mask.  No issues
 <p>- Part 2: Initialization Docking Program with Address Specified by Mask.  Should not have had any issues, but found that MindGW (the compiler I'm using) ALWAYS returns 0 for (1 << bit) where "bit" is 32 or greater
 
-<h2:>Day 15: Rambunctious Recitation</h2>
+<h2>Day 15: Rambunctious Recitation</h2>
 - Parts 1 & 2: Knowing that the simple case is a Order N**2 operation of reading through the previous list of numbers and suspecting that Part 2 will be a much larger range of numbers, I implemented this as a bitmap array with each element storing a value in the list.  No Issues.  
 <p><b>NOTE:</b> My values are hard coded into the program
