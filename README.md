@@ -5,6 +5,10 @@ Here are my solutions to Advent Day of Code 2020.
 I do not claim that my solutions are particularly great but I did them all on my lonesome
 
 
+<h2>Day 7: Handy Haversacks</h2>
+- Part 1: Pick a bag and find out how many "shiny gold" bags end up in it.  Did a very simple first pass with only taking the first letters of the two word colour - big mistake as while it works for the demo set, there are multiple colours with the same initials.  No issues other than having to redo with the full colour name
+<p>- Part 2: Find out how many bags are in one "shiny gold" one.  No issues 
+
 <h2>Day 8: Handheld Halting</h2>
 - Part 1: Find accumulator value in repeating code.  No issues
 <p>- Part 2: Find the corrupted instruction.  No issues 
