@@ -65,7 +65,7 @@ I do not claim that my solutions are particularly great but I did them all on my
 
 <h2>Day 14: Docking Data</h2>
 - Part 1: Initialization Docking Program with Data Specified by Mask.  No issues
-<p>- Part 2: Initialization Docking Program with Address Specified by Mask.  Should not have had any issues, but found that MindGW (the compiler I'm using) ALWAYS returns 0 for (1 << bit) where "bit" is 32 or greater
+<p>- Part 2: Initialization Docking Program with Address Specified by Mask.  Should not have had any issues, but found that MingGW (the compiler I'm using) ALWAYS returns 0 for (1 << bit) where "bit" is 32 or greater
 
 <h2>Day 15: Rambunctious Recitation</h2>
 - Parts 1 & 2 are the same program.  Knowing that the simple case is a Order N**2 operation of reading through the previous list of numbers for each new number and suspecting that Part 2 will be a much larger range of numbers, I implemented this as a bitmap array with each element storing a value in the list.  No Issues.  
