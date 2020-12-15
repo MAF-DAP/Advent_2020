@@ -7,6 +7,10 @@ Note that the base code I use for each project becomes simpler as the days go on
 I do not claim that my solutions are particularly great but I did them all on my lonesome
 
 
+<h2>Day 3: Toboggan Trajectory</h2>
+- Part 1: Tobogganing through a forest and counting the trees you'd hit.  No issues
+<p>- Part 2: TRy different ways to navigate the forest.  No issues 
+
 <h2>Day 4: Passport Processing</h2>
 - Part 1: Checking passports for validity.  No issues
 <p>- Part 2: More involved passport data checks.  No issues 
