@@ -74,3 +74,7 @@ I do not claim that my solutions are particularly great but I did them all on my
 <h2>Day 16: Ticket Translation</h2>
 - Part 1: Scan for Invalid Tickets.  No issues
 <p>- Part 2: Determine Fields from the Ticket information.  I set up my data table in Part 1 appropriately for Part 2 and I noticed (before going through the data) that the table entries to be searched would reduced.  But, I hadn't properly set up my check to handle the reducing data and I ended up with an infinite loop that was looking for table entries to search that weren't there
+
+<h2>Day 17: Conway Cubes</h2>
+- Part 1: Look at the progression of cubes in three dimensions (really Game of Life).  No issues
+<p>- Part 2: Move to four dimensions.  No issues
