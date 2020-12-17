@@ -70,3 +70,7 @@ I do not claim that my solutions are particularly great but I did them all on my
 <h2>Day 15: Rambunctious Recitation</h2>
 - Parts 1 & 2 are the same program.  Knowing that the simple case is a Order N**2 operation of reading through the previous list of numbers for each new number and suspecting that Part 2 will be a much larger range of numbers, I implemented this as a bitmap array with each element storing a value in the list.  No Issues.  
 <p><b>NOTE:</b> The test values given to me are hard coded into the program
+  
+<h2>Day 16: Ticket Translation</h2>
+- Part 1: Scan for Invalid Tickets.  No issues
+<p>- Part 2: Determine Fields from the Ticket information.  I set up my data table in Part 1 appropriately for Part 2 and I noticed (before going through the data) that the table entries to be searched would reduced.  But, I hadn't properly set up my check to handle the reducing data and I ended up with an infinite loop that was looking for table entries to search that weren't there
