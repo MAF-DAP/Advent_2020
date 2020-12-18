@@ -61,7 +61,7 @@ I do not claim that my solutions are particularly great but I did them all on my
 
 <h2>Day 13: Shuttle Search</h2>
 - Part 1: Finding the Bus that will arrive closest to you disembarking the boat.  No issues
-<p>- Part 2: Finding a time when the buses will come in in order.  First approach was going through each lowest increment in time to find when the buses will come in order - this was very slow (would take about three days to complete).  I spent some time looking at the sample data approach and noticed that the increment time should be based on the number of buses that have come through on time - this version worked much more quickly
+<p>- Part 2: Finding a time when the buses will come in in order.  First approach was going through each lowest increment in time to find when the buses will come in order - this was very slow (would take about three days to complete).  I spent some time looking at the sample data approach and noticed that the increment time should be based on the number of buses that have come through so far in order (as the result would be a multiple of this value) - this version ran much more quickly
 
 <h2>Day 14: Docking Data</h2>
 - Part 1: Initialization Docking Program with Data Specified by Mask.  No issues
