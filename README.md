@@ -80,5 +80,5 @@ I do not claim that my solutions are particularly great but I did them all on my
 <p>- Part 2: Move to four dimensions.  No issues
 
 <h2>Day 18: Operation Order</h2>
-- Part 1: Calculate the result of arithmetic strings from left to right (no order of operations).  No issues
+- Part 1: Calculate the result of arithmetic strings from left to right (no order of operations).  No issues other than I ran into the MinGW 64 bit weirdness again
 <p> - Part 2: Now evaluate with addition being the highest priority operation.  I stored the values and operations in an array and went through the array.  No issues
